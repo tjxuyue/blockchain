@@ -1,0 +1,2 @@
+client cert path: production/crypto/client/test_user0/ks/raw
+validator cert path: production/crypto/validator/test_vp3/ks/raw
